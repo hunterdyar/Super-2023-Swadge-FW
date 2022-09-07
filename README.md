@@ -1,3 +1,6 @@
+# Note
+### Development for Picross no longer being done in this repo. Now being done on picross branch of main project.
+
 # Table of Contents
 
 * [Welcome](#welcome)
